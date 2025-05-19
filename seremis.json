@@ -1,0 +1,167 @@
+[
+    {
+        "Region": "Arica y Parinacota",
+        "Address": "7 de junio 188, 4° piso, Arica",
+        "Phones": [
+            "(58) 258 6115",
+            "(58) 258 6130"
+        ],
+        "Email": "arica@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:30 hrs."
+    },
+    {
+        "Region": "Tarapacá",
+        "Address": "Aníbal Pinto 375, Iquique",
+        "Phones": [
+            "(57) 224 6039",
+            "(57) 224 6062"
+        ],
+        "Email": "tarapaca@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:15 hrs."
+    },
+    {
+        "Region": "Antofagasta",
+        "Address": "Av. Angamos 721, Antofagasta.",
+        "Phones": [
+            "(55)2563910"
+        ],
+        "Email": "antofagasta@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:00 hrs."
+    },
+    {
+        "Region": "Atacama",
+        "Address": "Atacama 810, Copiapó",
+        "Phones": [
+            "(52) 252 6803",
+            "(52) 252 6810",
+            "(52) 252 6818"
+        ],
+        "Email": "atacama@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 14:00 hrs."
+    },
+    {
+        "Region": "Coquimbo",
+        "Address": "Arturo Prat 255, oficina 410, 4° piso, La Serena",
+        "Phones": [
+            "(51) 256 6500",
+            "(51) 256 6509"
+        ],
+        "Email": "coquimbo@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:30 hrs."
+    },
+    {
+        "Region": "Valparaíso",
+        "Address": "Pje. Melgarejo 669, 9° piso, Valparaíso",
+        "Phones": [
+            "(32) 217 6868",
+            "(32) 217 6878"
+        ],
+        "Email": "valparaiso@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:00 hrs."
+    },
+    {
+        "Region": "Metropolitana",
+        "Address": "Moneda 970. Piso 11 Eurocentro, Santiago",
+        "Phones": [],
+        "Email": "metropolitana@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:30 hrs."
+    },
+    {
+        "Region": "Lib. Gral. Bernardo O’Higgins",
+        "Address": "Andrés de Alcázar 431, Rancagua",
+        "Phones": [
+            "(72) 258 6600",
+            "(72) 258 6602",
+            "(72) 258 6606"
+        ],
+        "Email": "ohiggins@mbienes.cl",
+        "Hours": "lunes a viernes de 08:30 a 13:00 hrs"
+    },
+    {
+        "Region": "Maule",
+        "Address": "Uno Oriente 1150, 3er piso, Talca",
+        "Phones": [
+            "(71) 2616260"
+        ],
+        "Email": "maule@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:30 hrs."
+    },
+    {
+        "Region": "Ñuble",
+        "Address": "Bulnes #590, Chillán",
+        "Phones": [
+            "42-2500479",
+            "42-2500461",
+            "422500475"
+        ],
+        "Email": "nuble@mbienes.cl",
+        "Hours": "lunes a viernes de 08:30 a 13:00 hrs."
+    },
+    {
+        "Region": "Biobío",
+        "Address": "Aníbal Pinto 442, 1er piso, Concepción",
+        "Phones": [
+            "(41) 210 6300",
+            "(41) 210 6337",
+            "(41) 210 6348"
+        ],
+        "Email": "biobio@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:30 hrs."
+    },
+    {
+        "Region": "La Araucanía",
+        "Address": "Arturo Prat 535, Temuco",
+        "Phones": [
+            "(45) 299 6386",
+            "(45) 299 6385",
+            "(45) 299 6399"
+        ],
+        "Email": "araucania@mbienes.cl",
+        "Hours": "lunes a viernes de 08:30 a 13:30 hrs."
+    },
+    {
+        "Region": "Los Ríos",
+        "Address": "Av. Ramón Picarte 1448, Valdivia",
+        "Phones": [
+            "(63) 233 6450",
+            "(63) 233 6451",
+            "(63) 233 6463"
+        ],
+        "Email": "losrios@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 13:45 hrs."
+    },
+    {
+        "Region": "Los Lagos",
+        "Address": "Av. Décima Región 480, Puerto Montt",
+        "Phones": [
+            "(65) 238 6410",
+            "(65) 238 6416",
+            "(65) 238 6417"
+        ],
+        "Email": "loslagos@mbienes.cl",
+        "Hours": "lunes a viernes de 09:00 a 14:00 hrs."
+    },
+    {
+        "Region": "Aysén del General Carlos Ibáñez del Campo",
+        "Address": "Plaza de Armas 361, Coyhaique",
+        "Phones": [
+            "(67) 257 6709",
+            "(67) 257 6710",
+            "(67) 257 6713"
+        ],
+        "Email": "aysen@mbienes.cl",
+        "Hours": "lunes a viernes de 08:30 a 13:30 hrs."
+    },
+    {
+        "Region": "Magallanes",
+        "Address": "Av. España 971, Punta Arenas",
+        "Phones": [
+            "(61) 274 6551",
+            "(61) 274 6554",
+            "(61) 274 6559"
+        ],
+        "Email": "magallanes@mbienes.cl",
+        "Hours": "lunes a viernes de 08:30 a 13:30 hrs.",
+        "Additional_Hours": "Atención de Provincias de 14:15 a 17:00 hrs."
+    }
+]

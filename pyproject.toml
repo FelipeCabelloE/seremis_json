@@ -1,0 +1,22 @@
+[project]
+name = "seremis-json"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "geopandas>=1.0.1",
+    "geopy>=2.4.1",
+    "httpx>=0.28.1",
+    "leafmap>=0.45.0",
+    "marimo>=0.13.10",
+    "nominatim-api>=5.1.0",
+    "osmnx>=2.0.3",
+    "osmpythontools>=0.3.5",
+    "pydantic>=2.11.4",
+]
+
+[tool.pyright]
+venvPath='.'
+venv=".venv"
+exclude=['.venv']
