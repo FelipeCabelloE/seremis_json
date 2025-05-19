@@ -1,4 +1,9 @@
 import json
+from pydantic_code.jsonseremis_model import Seremi
+
+
+from typing import List, Optional
+from pydantic import BaseModel, ValidationError, parse_obj_as
 
 
 def open_jsonseremis(filename: str):

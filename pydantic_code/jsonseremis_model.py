@@ -1,5 +1,5 @@
 from typing import List, Optional
-from pydantic import BaseModel, ValidationError, parse_obj_as
+from pydantic import BaseModel
 
 
 class Seremi(BaseModel):
